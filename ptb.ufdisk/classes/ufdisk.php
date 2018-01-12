@@ -12,7 +12,7 @@ class CPtbUserTypeDisk
         return [
             "USER_TYPE_ID" => "ptbdisc",
             "CLASS_NAME" => "CPtbUserTypeDisk",
-            "DESCRIPTION" => Loc::getMessage("USER_TYPE_DISK_NAME") . '1231232',
+            "DESCRIPTION" => Loc::getMessage("USER_TYPE_DISK_NAME"),
             "BASE_TYPE" => "int"
         ];
     }
